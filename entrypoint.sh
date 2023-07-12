@@ -3,7 +3,7 @@
 # Web Site:https://www.hicairo.com
 # Telegram:https://t.me/HiaiFeng
 
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
+UUID=${UUID:-'97d305e6-9c37-4717-8209-c52b0f8ec2e9'}
 VMESS_WSPATH=${VMESS_WSPATH:-'/vmess'}
 VLESS_WSPATH=${VLESS_WSPATH:-'/vless'}
 URL=${HOSTNAME}-8080.csb.app
